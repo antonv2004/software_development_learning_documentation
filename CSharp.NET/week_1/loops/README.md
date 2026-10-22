@@ -1,0 +1,11 @@
+## What I Learned
+- Learned how loops work and how to repeat code in C#.
+- Learned how to use a while loop to repeat code while a condition is true.
+- Learned how to use a do-while loop, which always runs at least once.
+- Learned how to use a for loop to repeat code a specific number of times.
+- Learned how to use a foreach loop to go through arrays and read their values.
+- Learned how to use loops to display the elements of 1D and 2D arrays.
+- Learned how to use nested for loops to create multiplication tables and draw rectangles.
+- Learned how to use break to stop a loop.
+- Learned how to use continue to skip the current loop run and continue with the next one.
+- Learned how to use loops for practical tasks, such as checking passwords, finding palindromes, and removing unwanted characters from text.
