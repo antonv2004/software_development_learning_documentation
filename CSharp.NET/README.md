@@ -11,4 +11,4 @@ I found out that Visual Studio for Mac stopped receiving updates in 2024. So I h
 version control in one place. I also had an old C# course that I bought back in 2020, so I decided to reuse it.
 
 ## Translating
-I translate variable names, task descriptions, and comments in my code from german into English.
+I translate variable names, task descriptions, and comments in my code from German into English.
